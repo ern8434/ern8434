@@ -1,15 +1,15 @@
-## Hi there 👋
+## Welcome to my github profile
 
-** Freelance back end web developer (Php MVC custom framework)
-Coding backend web projects for clients who want to use their html template/web site. I use my custom PHP framework in MVC structure.
+### Freelance back end web developer (Php MVC custom framework) 
+Coding backend web projects for clients who want to use their html template/web site. I use my own custom PHP framework in MVC structure.
 
-** Mobile apps development (Android,iOS) 
+### Mobile apps development (Android,iOS) 
 I build mobile apps (mostly for Android) to give life to some ideas.
 
-** Python
-Trying to learn python
+### Python 
+Trying to learn python and build some projects.
 
-** Arduino projects
+### Arduino projects 
 Sometimes i build arduino projects as a hobby.
 
 <!--
